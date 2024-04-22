@@ -1,0 +1,17 @@
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.AssemblyInfoInputs.cache
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.AssemblyInfo.cs
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.csproj.CoreCompileInputs.cache
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.exe
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.deps.json
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.runtimeconfig.json
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.dll
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.pdb
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.csproj.AssemblyReference.cache
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\obj\Debug\net8.0\RabbitRe.DB1F5D6F.Up2Date
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.dll
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\obj\Debug\net8.0\refint\RabbitReceiver2.dll
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.pdb
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.genruntimeconfig.cache
+C:\Users\Sherif-Abdullah\Desktop\MQ\RabbitReceiver2\obj\Debug\net8.0\ref\RabbitReceiver2.dll
